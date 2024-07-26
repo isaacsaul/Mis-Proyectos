@@ -1,0 +1,6 @@
+2024/06/20-20:54:18.623 3fd8 Reusing MANIFEST C:\Users\alvar\OneDrive\Escritorio\Bot\prueba\tokens\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/20-20:54:18.628 3fd8 Recovering log #3
+2024/06/20-20:54:18.662 3fd8 Reusing old log C:\Users\alvar\OneDrive\Escritorio\Bot\prueba\tokens\session\Default\Local Storage\leveldb/000003.log 
+2024/06/20-20:57:19.219 481c Level-0 table #5: started
+2024/06/20-20:57:19.230 481c Level-0 table #5: 18302 bytes OK
+2024/06/20-20:57:19.234 481c Delete type=0 #3
